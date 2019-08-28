@@ -58,7 +58,7 @@ li {
 	text-align: center;
 }
 
-
+/*This is class for the experience section*/
 .experience {
   background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
   width: 120px;
@@ -68,6 +68,7 @@ li {
   text-align: left;
 }
 
+/*This is the class for the education tags*/
 .education {
   background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
   width: 110px;
@@ -77,6 +78,7 @@ li {
   text-align: left;
 }
 
+/*This is th tag for the skills tag*/
 .skills {
   background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
   width: 60px;
