@@ -1,0 +1,106 @@
+/* This is styling for the H1 tag */
+h1 {
+	font-family: verdana, helvetica, sans serif;
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+/*This is styling the h2 tag */
+h2 {
+	font-family: verdana, helvetica, san serif;
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+/*This is styling fpr the H5 tag*/
+h5 {
+	font-weight: bold;
+}
+
+/*This is styling for the P tag*/
+p {
+	font-family: arial, helvetica, sans serif;
+	font-size: 10pt;
+}
+
+/*This is styling for the list item tag */
+li {
+	font-family: arial, helvetica, sans serif;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+/*This is styling for the head tag */
+#container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/*This helps hold the header image in place */
+#header{
+	background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+    font-weight: bold;
+
+}
+
+/*This helps center align the side text */
+#side {
+	text-align: center;
+}
+
+/*This help centers the whole table */
+.table_content{
+	text-align: center;
+}
+
+
+.experience {
+  background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
+  width: 120px;
+  height: 25px;
+  top: 75%;
+  left: 50%;
+  text-align: left;
+}
+
+.education {
+  background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
+  width: 110px;
+  height: 25px;
+  top: 75%;
+  left: 50%;
+  text-align: left;
+}
+
+.skills {
+  background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
+  width: 60px;
+  height: 25px;
+  top: 75%;
+  left: 50%;
+  text-align: left;
+}
+
+/*This help put the text in the footer intact */
+.bottom {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/*This helps hold the footer image and also stylesn it */
+.foot {
+  background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
+  width: 1300px;
+  height: 20px;
+  position: absolute;
+  top:  115%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
