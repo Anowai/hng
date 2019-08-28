@@ -9,4 +9,6 @@ https://twitter.com/MrAnowai/status/1164651628730957824
 #Here is my lucid link about my html task
 https://lucid.blog/anowai.py/post/1566514780
 
+#Here is my lucid link in regards to my css
+
 #Thanks HNG Internship 6.0.
