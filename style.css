@@ -106,3 +106,18 @@ li {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.form {
+  background-color: #011627;
+  color: #FDFFFC;
+  border: 40px solid #2EC486;
+  padding: 30px;
+}
+
+#thanks {
+  background-color: #011627;
+  color: #FDFFFC;
+  border: 40px solid #2EC486;
+  padding: 30px;
+  text-align: center;
+}
