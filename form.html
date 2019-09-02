@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="style.css">
+	<title>Contant Form</title>
+</head>
+<body class="form">
+
+	<h1>Contant Form</h1>
+	<form name="form" action="thankyou.html" method="get">
+		
+
+		<label for="name">Name:</label><br>
+		<input type="text" name="name" minlength="4" placeholder="Enter name" required="required" title="Your name must be four character and above"><br><br>
+
+		<label for="email">Email:</label><br>
+		<input type="email" name="email" placeholder="Enter email" required="required" title="Please provide your Email address in this field."><br><br>
+
+		<label for="title">Title:</label><br>
+		<select name="title">
+			<option>Mr</option>
+			<option>Mrs</option>
+			<option>Miss</option>
+		</select><br><br>
+
+		<label for="message">Message:</label><br>
+		<textarea name="Message" minlength="20" cols="55" rows="12" size="20" placeholder="Whats on your mind" required="required" title="Your message must be more than 20 character"></textarea><br><br>
+
+		<input type="submit" name="Submit" value="Submit">
+
+
+	</form>
+
+</body>
+</html>
