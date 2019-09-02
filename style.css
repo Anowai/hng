@@ -107,7 +107,6 @@ li {
   transform: translate(-50%, -50%);
 }
 
-/*This is for the form page*/
 .form {
   background-color: #011627;
   color: #FDFFFC;
@@ -115,11 +114,9 @@ li {
   padding: 30px;
 }
 
-/*This is for the thank you page*/
 #thanks {
   background-color: #011627;
   color: #FDFFFC;
   border: 40px solid #2EC486;
   padding: 30px;
   text-align: center;
-}
