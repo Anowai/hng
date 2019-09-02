@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* This is styling for the H1 tag */
+=======
+/* This is styling the H1 tag */
+>>>>>>> 8a6a1d60da5a316d8ef2e51f68535c5da79b5a42
 h1 {
 	font-family: verdana, helvetica, sans serif;
 	font-weight: bold;
@@ -58,7 +62,11 @@ li {
 	text-align: center;
 }
 
+<<<<<<< HEAD
 
+=======
+/*This is class for the experience section*/
+>>>>>>> 8a6a1d60da5a316d8ef2e51f68535c5da79b5a42
 .experience {
   background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
   width: 120px;
@@ -68,6 +76,10 @@ li {
   text-align: left;
 }
 
+<<<<<<< HEAD
+=======
+/*This is the class for the education tags*/
+>>>>>>> 8a6a1d60da5a316d8ef2e51f68535c5da79b5a42
 .education {
   background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
   width: 110px;
@@ -77,6 +89,10 @@ li {
   text-align: left;
 }
 
+<<<<<<< HEAD
+=======
+/*This is th tag for the skills tag*/
+>>>>>>> 8a6a1d60da5a316d8ef2e51f68535c5da79b5a42
 .skills {
   background-image: url('https://res.cloudinary.com/anowai-py/image/upload/v1566925111/Webpage_Header_1_irwpe9.jpg');
   width: 60px;
@@ -103,4 +119,8 @@ li {
   top:  115%;
   left: 50%;
   transform: translate(-50%, -50%);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8a6a1d60da5a316d8ef2e51f68535c5da79b5a42
