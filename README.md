@@ -6,7 +6,11 @@
 #Here is my social media post link about flutterwave
 https://twitter.com/MrAnowai/status/1164651628730957824
 
-#Here is my lucid link about my html task.
+#Here is my lucid link about my html task
 https://lucid.blog/anowai.py/post/1566514780
 
+#Here is my lucid link in regards to my css
+https://lucid.blog/anowai.py/post/css-the-paint-and-wallpaper-to-your-html-ef5
+
 #Thanks HNG Internship 6.0.
+
